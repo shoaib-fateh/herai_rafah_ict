@@ -26,8 +26,8 @@
         <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
         <!-- Topbar -->
         <!-- Header -->
-         
-        <!-- <header id="sticky-header" class="site-header">
+
+        <header id="sticky-header" class="site-header">
             <div class="main-menu default transparent-menu">
                 <div class="container">
                     <div class="manu-wrapper">
@@ -46,12 +46,12 @@
                                         <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="#">About</a></li>
                                         <li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="#">Service</a></li>
                                         <li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="#">Packages</a></li>
+                                        <li id="menu-item-1037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1037"><a href="#">Contact</a></li>
                                         <li id="menu-item-3507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3507"><a href="#">More <i class="fa-solid fa-chevron-down"></i></i></a>
                                             <ul class="sub-menu">
                                                 <li id="menu-item-3508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3508"><a href="#">Speed Test</a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-1037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1037"><a href="#">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
             </div>
-        </header> -->
+        </header>
 
         <!-- Mobile Menu -->
         <!-- <div class="mobile-menu">
