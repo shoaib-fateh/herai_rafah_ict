@@ -71,7 +71,6 @@ function herai_rafah_isp_enqueue_scripts()
     wp_enqueue_script('images-loaded-js', 'https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js', array(), '1.1', true);
     wp_enqueue_script('particles-js', get_stylesheet_directory_uri() . '/assets/js/particles.min.js', array(), '1.1', true);
     wp_enqueue_script('widget-script-js', get_stylesheet_directory_uri() . '/assets/js/widget-script.js', array(), '1.1', true);
-    wp_enqueue_script('theme-script-js', get_stylesheet_directory_uri() . '/assets/js/theme-script.js', array(), '1.0.2', true);
     wp_enqueue_script('swiper-script-js', 'https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.js', array(), '1.0.2', true);
 
     // Elementor scripts
@@ -80,6 +79,15 @@ function herai_rafah_isp_enqueue_scripts()
     wp_enqueue_script('elementor-waypoints-js', get_stylesheet_directory_uri() . '/assets/lib/waypoints/waypoints.min.js', array(), '4.0.2', true);
     wp_enqueue_script('jquery-ui-core-js', get_stylesheet_directory_uri() . '/js/jquery-ui/core.min.js', array(), '1.13.2', true);
     wp_enqueue_script('elementor-frontend-js', get_stylesheet_directory_uri() . '/assets/js/frontend.min.js', array(), '3.22.1', true);
+
+    // wp_enqueue_script('theme-script-js', get_stylesheet_directory_uri() . '/js/theme-script.js', array(), '1.0.2', true);
+    wp_enqueue_script(
+        'theme-script-js',
+        'https://wp.urnoit.net/solute/wp-content/themes/solute/assets/js/theme-script.js',
+        array(),
+        '1.0.2',
+        true
+    );
 
     // Inline script for Contact Form 7
     wp_add_inline_script('contact-form-7-js', 'var wpcf7 = {"api":{"root":"' . esc_url_raw(rest_url()) . '","namespace":"contact-form-7/v1"}};');

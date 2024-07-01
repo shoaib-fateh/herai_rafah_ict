@@ -1556,6 +1556,20 @@ Blog Details
 	color: #fff;
 	background-color: var(--main-color);
 }
+
+.social-icon {
+	color: #212529;
+	padding: 10px 12px;
+	font-size: 1.5rem;
+	background: #69727d;
+	border-radius: 100px;
+	margin-left: 10px;
+}
+
+.social-icon:hover {
+	color: #212529;
+}
+
 .blog-details .post .blog-content .entry-footer .social-share{
 	display: flex;
 	flex-wrap: wrap;

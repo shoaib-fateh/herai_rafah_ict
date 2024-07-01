@@ -1,5 +1,5 @@
 <?php
-get_header()
+get_header();
 ?>
 
 <div class="default-page">
@@ -176,10 +176,10 @@ get_header()
                                             <img decoding="async" src="https://wp.urnoit.net/solute/wp-content/uploads/2024/06/about1-img.png" title="about1-img" alt="about1-img" loading="lazy" />
                                         </div>
 
-                                        <div class="content">
-                                            <h2 class="title">15</h2>
+                                        <!-- <div class="content">
+                                            <h2 class="title">+150</h2>
                                             <h5 class="subtitle">Years Experience</h5>
-                                        </div>
+                                        </div> -->
                                     </div>
 
 
@@ -262,5 +262,5 @@ get_header()
 
 
 <?php
-// get_footer();
+get_footer();
 ?>

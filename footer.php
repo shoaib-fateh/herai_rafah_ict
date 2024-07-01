@@ -29,14 +29,14 @@
                                                             vertical-align: middle;
                                                             display: inline-block
                                                         }
-                                                    </style> <img width="146" height="43" src="https://wp.urnoit.net/solute/wp-content/uploads/2023/01/logo.png" class="attachment-large size-large wp-image-460" alt="" />
+                                                    </style> <img width="146" height="43" src="<?php echo get_theme_file_uri('/assets/images/logo.png'); ?>" class="attachment-large size-large wp-image-460" alt="" />
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-e0fd436 elementor-widget elementor-widget-solute-heading" data-id="e0fd436" data-element_type="widget" data-widget_type="solute-heading.default">
                                                 <div class="elementor-widget-container">
 
                                                     <div class="heading">
-                                                        <p class="heading-text">Lesires to obtain pain of itself because pain, but occasionally circumstances.</p>
+                                                        <p class="heading-text">Competitive pricing, knowledgeable staff, and ethical responsibility are the key ingredients in our recipe for excellence.</p>
                                                     </div>
 
                                                 </div>
@@ -352,25 +352,21 @@
                                                     </style>
                                                     <div class="elementor-social-icons-wrapper elementor-grid">
                                                         <span class="elementor-grid-item">
-                                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-flaticon-facebook-4 elementor-repeater-item-c373ecd" target="_blank">
-                                                                <span class="elementor-screen-only">Flaticon-facebook-4</span>
-                                                                <i class="flaticon flaticon-facebook-4"></i> </a>
+                                                            <a class="social-icon" target="_blank" href="<?php echo 'https://www.facebook.com/profile.php?id=100069211795933' ?>">
+                                                                <i class="fa-brands fa-square-facebook"></i>
+                                                            </a>
                                                         </span>
                                                         <span class="elementor-grid-item">
-                                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-c0d7543" target="_blank">
-                                                                <span class="elementor-screen-only">Twitter</span>
-                                                                <i class="fab fa-twitter"></i> </a>
+                                                            <a class="social-icon" target="_blank" href="<?php echo 'https://www.instagram.com/herairafah/' ?>">
+                                                                <i class="fa-brands fa-instagram"></i>
+                                                            </a>
                                                         </span>
                                                         <span class="elementor-grid-item">
-                                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-0f80f7c" target="_blank">
-                                                                <span class="elementor-screen-only">Linkedin-in</span>
-                                                                <i class="fab fa-linkedin-in"></i> </a>
+                                                            <a class="social-icon" target="_blank" href="<?php echo 'https://t.me/HeraiRafah' ?>">
+                                                                <i class="fa-brands fa-telegram"></i>
+                                                            </a>
                                                         </span>
-                                                        <span class="elementor-grid-item">
-                                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest-p elementor-repeater-item-2607746" target="_blank">
-                                                                <span class="elementor-screen-only">Pinterest-p</span>
-                                                                <i class="fab fa-pinterest-p"></i> </a>
-                                                        </span>
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -395,27 +391,27 @@
                                                         <ul>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Home
+                                                                    <i class="fa-solid fa-angles-right"></i> Home
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> About Us
+                                                                    <i class="fa-solid fa-angles-right"></i> About Us
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Blog Page
+                                                                    <i class="fa-solid fa-angles-right"></i> Blog Page
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Terms & Conditions
+                                                                    <i class="fa-solid fa-angles-right"></i> Terms & Conditions
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Privacy Policy
+                                                                    <i class="fa-solid fa-angles-right"></i> Privacy Policy
                                                                 </a>
                                                             </li>
                                                         </ul>
@@ -445,27 +441,27 @@
                                                         <ul>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Cyber Security
+                                                                    <i class="fa-solid fa-angles-right"></i> Cyber Security
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Web Development
+                                                                    <i class="fa-solid fa-angles-right"></i> Web Development
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> AI Software
+                                                                    <i class="fa-solid fa-angles-right"></i> AI Software
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> Content Writting
+                                                                    <i class="fa-solid fa-angles-right"></i> Content Writting
                                                                 </a>
                                                             </li>
                                                             <li>
                                                                 <a href="#">
-                                                                    <i aria-hidden="true" class="bi bi-chevron-double-right"></i> UI Design
+                                                                    <i class="fa-solid fa-angles-right"></i> UI Design
                                                                 </a>
                                                             </li>
                                                         </ul>
@@ -491,7 +487,7 @@
                                                 <div class="elementor-widget-container">
 
                                                     <div class="heading">
-                                                        <p class="heading-text">88 Broklyn Street, 600 New<br> York, USA</p>
+                                                        <p class="heading-text">Beginning of Telecommunications Road, above Ferdowsi 2</p>
                                                     </div>
 
                                                 </div>
@@ -503,17 +499,16 @@
                                                     <div class="item-list style1">
                                                         <ul>
                                                             <li>
-
-                                                                <i aria-hidden="true" class="bi bi-globe2"></i> www.yourweb.com
+                                                                <i class="fa-solid fa-globe"></i> <?php bloginfo('url') ?>
                                                             </li>
                                                             <li>
-                                                                <a href="mailto:example@gmail.com">
-                                                                    <i aria-hidden="true" class="bi bi-envelope"></i> example@gmail.com
+                                                                <a href="mailto:info@herairafah.com">
+                                                                    <i class="fa-regular fa-envelope"></i> info@herairafah.com
                                                                 </a>
                                                             </li>
                                                             <li>
-                                                                <a href="tel:202-555-0184">
-                                                                    <i aria-hidden="true" class="bi bi-telephone"></i> 202-555-0184
+                                                                <a href="tel:+930729242473">
+                                                                    <i class="fa-solid fa-phone"></i> 0729-24-24-73
                                                                 </a>
                                                             </li>
                                                         </ul>
@@ -559,7 +554,6 @@
 
 
 <!-- // then replace the below url -->
-<script src="https://wp.urnoit.net/solute/wp-content/plugins/solute-elementor-extension/assets/js/particles.min.js?ver=1.1" id="particles-js"></script>
 <script src="https://wp.urnoit.net/solute/wp-content/themes/solute/assets/js/theme-script.js?ver=1.0.2" id="theme-script-js"></script>
 </body>
 
