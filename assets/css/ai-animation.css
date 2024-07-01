@@ -1,0 +1,71 @@
+/*
+Author: Atikul Islam;
+Version: 1.0.0;
+*/
+
+/*animation:  animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction */
+
+.rotate {
+	animation: rotation 20s linear infinite;
+}
+@keyframes rotation {
+	from {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+.move-up-down{
+	animation: moving 2s linear infinite;
+}
+@keyframes moving {
+	0% {
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px);
+	}
+	50% {
+		-webkit-transform: translateY(-15px);
+		transform: translateY(-15px);
+	}
+	100% {
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px);
+	}
+}
+
+.move-left-right{
+	animation: moveLeftBounce 3s linear infinite;;
+}
+@keyframes moveLeftBounce {
+	0% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+	50% {
+		-webkit-transform: translateX(50px);
+		transform: translateX(50px);
+	}
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
+
+.zoom-in-out{
+	animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+@keyframes zoom-in-zoom-out {
+	0% {
+		transform: scale(1, 1);
+	}
+	50% {
+		transform: scale(1.1, 1.1);
+	}
+	100% {
+		transform: scale(1, 1);
+	}
+}
