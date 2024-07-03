@@ -1559,11 +1559,16 @@ Blog Details
 
 .social-icon {
 	color: #212529;
-	padding: 10px 12px;
 	font-size: 1.5rem;
-	background: #69727d;
+	background: #c8c8c9;
 	border-radius: 100px;
 	margin-left: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all 0.3s ease-in-out 0s;
+	padding: 8px;
+
 }
 
 .social-icon:hover {

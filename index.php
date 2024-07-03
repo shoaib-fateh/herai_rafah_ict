@@ -5,6 +5,7 @@ get_header();
 <div class="default-page">
     <main id="primary" class="site-main">
         <div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7">
+            <!-- Hero Section -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-22a7d8c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="22a7d8c" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;curve&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
                 <div class="elementor-shape elementor-shape-bottom" data-negative="true">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -163,6 +164,8 @@ get_header();
                     </div>
                 </div>
             </section>
+
+            <!-- Connection you to the World Section -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-097f1d0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="097f1d0" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c6ee43" data-id="7c6ee43" data-element_type="column">
@@ -251,6 +254,131 @@ get_header();
 
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--  -->
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7749a" data-id="8a7749a" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-23fdf0c elementor-widget elementor-widget-sectiontitle" data-id="23fdf0c" data-element_type="widget" data-widget_type="sectiontitle.default">
+                                <div class="elementor-widget-container">
+
+
+                                    <div class="section-title style1 center">
+                                        <h4 class="subtitle">Services</h4>
+                                        <h1 class="title">Why Us?</h1>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0fe91 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e0fe91" data-element_type="section">
+                                <div class="elementor-container elementor-column-gap-default">
+                                    <!-- Commitment To Quality -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-award"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>Commitment To Quality</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>It is the policy of Stark Telecom to develop, produce and deliver services which consistently conform to customer requirements</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Customer Oriented -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-users"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>Customer Oriented</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>We understand that the business won’t thrive unless it consistently improves customer focus.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+
+                                    <!-- 24/7 Support -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-headset"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>24/7 Support</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>Our customers can get help and find answers to questions as soon as they come up—24/7 and in real-time.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Best Packages -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-gift"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>Best Packages</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>We have considered various packages for our customers so that they can choose the right package according to their needs.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </div>
                 </div>

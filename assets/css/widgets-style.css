@@ -1,4 +1,4 @@
-p span{
+	p span{
 	color: #0c73ff;
 }
 
@@ -3249,7 +3249,7 @@ Service Box
 .service-box.style1 .icon{
 	margin-right: 25px;
 }
-.service-box.style1 .icon i{
+.service-box.style1 .icon {
 	position: relative;
 	display: inline-block;
 	color: var(--main-color);
