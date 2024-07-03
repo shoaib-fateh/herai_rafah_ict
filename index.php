@@ -269,7 +269,7 @@ get_header();
 
 
                                     <div class="section-title style1 center">
-                                        <h4 class="subtitle">Services</h4>
+                                        <h4 class="subtitle">Why <?php bloginfo("name")?>?</h4>
                                         <h1 class="title">Why Choose Us?</h1>
                                     </div>
 
