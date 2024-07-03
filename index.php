@@ -383,8 +383,38 @@ get_header();
                     </div>
                 </div>
             </section>
-        </div>
 
+            <!-- What we offer -->
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-097f1d0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="097f1d0" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-74db76d" data-id="74db76d" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-d94599e elementor-widget elementor-widget-sectiontitle" data-id="d94599e" data-element_type="widget" data-widget_type="sectiontitle.default">
+                                <div class="elementor-widget-container">
+                                    <div class="section-title style1 left">
+                                        <h4 class="subtitle sg_font">Fan of social media?</h4>
+                                        <h1 class="title">We have special offers for social media.</h1>
+                                        <p class="description">
+                                            Extra speed for social media including Facebook, Instagram, WhatsApp, Facebook Messenger and more…
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c6ee43" data-id="7c6ee43" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-a83bafe elementor-widget elementor-widget-singleimage" data-id="a83bafe" data-element_type="widget" data-widget_type="singleimage.default">
+                                <div class="elementor-widget-container">
+                                    <img decoding="async" src="<?php echo get_theme_file_uri('/assets/images/working.svg') ?>" alt="" loading="lazy" style="width: 100%;" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
 </div>
 
