@@ -270,13 +270,13 @@ get_header();
 
                                     <div class="section-title style1 center">
                                         <h4 class="subtitle">Services</h4>
-                                        <h1 class="title">Why Us?</h1>
+                                        <h1 class="title">Why Choose Us?</h1>
                                     </div>
 
 
                                 </div>
                             </div>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0fe91 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e0fe91" data-element_type="section">
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0fe91 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <!-- Commitment To Quality -->
                                     <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
@@ -301,57 +301,6 @@ get_header();
                                             </div>
                                         </div>
                                     </div>
-
-                                    <!-- Customer Oriented -->
-                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
-                                                <div class="elementor-widget-container">
-                                                    <div class="service-box style1">
-                                                        <div class="icon">
-                                                            <i class="fa-solid fa-users"></i>
-                                                        </div>
-                                                        <div class="content">
-                                                            <div class="title">
-                                                                <h3>Customer Oriented</h3>
-                                                            </div>
-                                                            <div class="description">
-                                                                <p>We understand that the business won’t thrive unless it consistently improves customer focus.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-
-
-                                    </div>
-
-                                    <!-- 24/7 Support -->
-                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
-                                                <div class="elementor-widget-container">
-                                                    <div class="service-box style1">
-                                                        <div class="icon">
-                                                            <i class="fa-solid fa-headset"></i>
-                                                        </div>
-                                                        <div class="content">
-                                                            <div class="title">
-                                                                <h3>24/7 Support</h3>
-                                                            </div>
-                                                            <div class="description">
-                                                                <p>Our customers can get help and find answers to questions as soon as they come up—24/7 and in real-time.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
                                     <!-- Best Packages -->
                                     <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -377,6 +326,57 @@ get_header();
 
 
                                     </div>
+                                </div>
+                                <div class="elementor-container elementor-column-gap-default">
+                                    <!-- Customer Oriented -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-users"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>Customer Oriented</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>We understand that the business won’t thrive unless it consistently improves customer focus.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                    <!-- 24/7 Support -->
+                                    <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3ea4f75" data-id="3ea4f75" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2d82faa elementor-widget elementor-widget-service">
+                                                <div class="elementor-widget-container">
+                                                    <div class="service-box style1">
+                                                        <div class="icon">
+                                                            <i class="fa-solid fa-headset"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <div class="title">
+                                                                <h3>24/7 Support</h3>
+                                                            </div>
+                                                            <div class="description">
+                                                                <p>Our customers can get help and find answers to questions as soon as they come up—24/7 and in real-time.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </section>
                         </div>

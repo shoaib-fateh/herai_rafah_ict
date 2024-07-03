@@ -3261,7 +3261,7 @@ Service Box
 .service-box.style1 .icon i::after{
 	content: '';
 	position: absolute;
-	background-image: url(../images/service-icon-bg.png);
+	background-image: url(../assets/images/service-icon-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 73px;
