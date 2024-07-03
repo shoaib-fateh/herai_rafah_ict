@@ -259,7 +259,7 @@ get_header();
                 </div>
             </section>
 
-            <!--  -->
+            <!-- Who Herai Rafah ICT? -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7749a" data-id="8a7749a" data-element_type="column">
@@ -269,7 +269,7 @@ get_header();
 
 
                                     <div class="section-title style1 center">
-                                        <h4 class="subtitle">Why <?php bloginfo("name")?>?</h4>
+                                        <h4 class="subtitle">Why <?php bloginfo("name") ?>?</h4>
                                         <h1 class="title">Why Choose Us?</h1>
                                     </div>
 
