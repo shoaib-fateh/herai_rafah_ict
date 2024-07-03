@@ -25,6 +25,7 @@ function herai_rafah_isp_enqueue_styles()
     wp_enqueue_style('swiper-css', get_stylesheet_directory_uri() . '/assets/lib/swiper/swiper.min.css');
     wp_enqueue_style('venobox-css', get_stylesheet_directory_uri() . '/assets/css/venobox.min.css');
     wp_enqueue_style('style1-css', get_stylesheet_directory_uri() . '/assets/css/widgets-style.css');
+    wp_enqueue_style('style2-css', get_stylesheet_directory_uri() . '/assets/css/widgets-icon.css');
     wp_enqueue_style('flaticon-css', get_stylesheet_directory_uri() . '/assets/css/flaticon.css');
     wp_enqueue_style('ai-animation-css', get_stylesheet_directory_uri() . '/assets/css/ai-animation.css');
     wp_enqueue_style('owl-style-css', get_stylesheet_directory_uri() . '/assets/css/owl.carousel.min.css');

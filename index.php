@@ -384,7 +384,7 @@ get_header();
                 </div>
             </section>
 
-            <!-- What we offer -->
+            <!-- What We Offer -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-097f1d0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="097f1d0" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-74db76d" data-id="74db76d" data-element_type="column">
@@ -414,8 +414,137 @@ get_header();
                     </div>
                 </div>
             </section>
+
+            <!-- Packages -->
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-097f1d0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="097f1d0" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c6ee43" data-id="7c6ee43" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-a83bafe elementor-widget elementor-widget-singleimage" data-id="a83bafe" data-element_type="widget" data-widget_type="singleimage.default">
+                                <div class="elementor-widget-container">
+                                    <img decoding="async" src="<?php echo get_theme_file_uri('/assets/images/working.svg') ?>" alt="" loading="lazy" style="width: 100%;" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-74db76d" data-id="74db76d" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-d94599e elementor-widget elementor-widget-sectiontitle" data-id="d94599e" data-element_type="widget" data-widget_type="sectiontitle.default">
+                                <div class="elementor-widget-container">
+                                    <div class="section-title style1 left">
+                                        <h4 class="subtitle sg_font">What is your need?</h4>
+                                        <h1 class="title">We have a package for you!</h1>
+                                        <p class="description">
+                                            Extra speed for social media including Facebook, Instagram, WhatsApp, Facebook Messenger and more…
+                                        </p>
+                                    </div>
+
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-2ee0a46 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="2ee0a46" data-element_type="widget" data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-gifts" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M240.6 194.1c1.9-30.8 17.3-61.2 44-79.8C279.4 103.5 268.7 96 256 96h-29.4l30.7-22c7.2-5.1 8.9-15.1 3.7-22.3l-9.3-13c-5.1-7.2-15.1-8.9-22.3-3.7l-32 22.9 11.5-30.6c3.1-8.3-1.1-17.5-9.4-20.6l-15-5.6c-8.3-3.1-17.5 1.1-20.6 9.4l-19.9 53-19.9-53.1C121 2.1 111.8-2.1 103.5 1l-15 5.6C80.2 9.7 76 19 79.2 27.2l11.5 30.6L58.6 35c-7.2-5.1-17.2-3.5-22.3 3.7l-9.3 13c-5.1 7.2-3.5 17.2 3.7 22.3l30.7 22H32c-17.7 0-32 14.3-32 32v352c0 17.7 14.3 32 32 32h168.9c-5.5-9.5-8.9-20.3-8.9-32V256c0-29.9 20.8-55 48.6-61.9zM224 480c0 17.7 14.3 32 32 32h160V384H224v96zm224 32h160c17.7 0 32-14.3 32-32v-96H448v128zm160-288h-20.4c2.6-7.6 4.4-15.5 4.4-23.8 0-35.5-27-72.2-72.1-72.2-48.1 0-75.9 47.7-87.9 75.3-12.1-27.6-39.9-75.3-87.9-75.3-45.1 0-72.1 36.7-72.1 72.2 0 8.3 1.7 16.2 4.4 23.8H256c-17.7 0-32 14.3-32 32v96h192V224h15.3l.7-.2.7.2H448v128h192v-96c0-17.7-14.3-32-32-32zm-272 0c-2.7-1.4-5.1-3-7.2-4.8-7.3-6.4-8.8-13.8-8.8-19 0-9.7 6.4-24.2 24.1-24.2 18.7 0 35.6 27.4 44.5 48H336zm199.2-4.8c-2.1 1.8-4.5 3.4-7.2 4.8h-52.6c8.8-20.3 25.8-48 44.5-48 17.7 0 24.1 14.5 24.1 24.2 0 5.2-1.5 12.6-8.8 19z"></path>
+                                                            </svg> </span>
+                                                    </div>
+
+                                                    <div class="elementor-icon-box-content">
+
+                                                        <h4 class="elementor-icon-box-title">
+                                                            <span>
+                                                                Dedicated Packages </span>
+                                                        </h4>
+
+                                                        <p class="elementor-icon-box-description">
+                                                            Cras dapibus vivamus elementum senisiesei Aenean vulputate eleifend tellus. </p>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-d6db0b0 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="d6db0b0" data-element_type="widget" data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-gift" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M32 448c0 17.7 14.3 32 32 32h160V320H32v128zm256 32h160c17.7 0 32-14.3 32-32V320H288v160zm192-320h-42.1c6.2-12.1 10.1-25.5 10.1-40 0-48.5-39.5-88-88-88-41.6 0-68.5 21.3-103 68.3-34.5-47-61.4-68.3-103-68.3-48.5 0-88 39.5-88 88 0 14.5 3.8 27.9 10.1 40H32c-17.7 0-32 14.3-32 32v80c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-80c0-17.7-14.3-32-32-32zm-326.1 0c-22.1 0-40-17.9-40-40s17.9-40 40-40c19.9 0 34.6 3.3 86.1 80h-86.1zm206.1 0h-86.1c51.4-76.5 65.7-80 86.1-80 22.1 0 40 17.9 40 40s-17.9 40-40 40z"></path>
+                                                            </svg> </span>
+                                                    </div>
+
+                                                    <div class="elementor-icon-box-content">
+
+                                                        <h4 class="elementor-icon-box-title">
+                                                            <span>
+                                                                Daily Limited Packages </span>
+                                                        </h4>
+
+                                                        <p class="elementor-icon-box-description">
+                                                            Cras dapibus vivamus elementum senisiesei Aenean vulputate eleifend tellus. </p>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-78d3902 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="78d3902" data-element_type="widget" data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-cloud-moon" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M342.8 352.7c5.7-9.6 9.2-20.7 9.2-32.7 0-35.3-28.7-64-64-64-17.2 0-32.8 6.9-44.3 17.9-16.3-29.6-47.5-49.9-83.7-49.9-53 0-96 43-96 96 0 2 .5 3.8.6 5.7C27.1 338.8 0 374.1 0 416c0 53 43 96 96 96h240c44.2 0 80-35.8 80-80 0-41.9-32.3-75.8-73.2-79.3zm222.5-54.3c-93.1 17.7-178.5-53.7-178.5-147.7 0-54.2 29-104 76.1-130.8 7.3-4.1 5.4-15.1-2.8-16.7C448.4 1.1 436.7 0 425 0 319.1 0 233.1 85.9 233.1 192c0 8.5.7 16.8 1.8 25 5.9 4.3 11.6 8.9 16.7 14.2 11.4-4.7 23.7-7.2 36.4-7.2 52.9 0 96 43.1 96 96 0 3.6-.2 7.2-.6 10.7 23.6 10.8 42.4 29.5 53.5 52.6 54.4-3.4 103.7-29.3 137.1-70.4 5.3-6.5-.5-16.1-8.7-14.5z"></path>
+                                                            </svg> </span>
+                                                    </div>
+
+                                                    <div class="elementor-icon-box-content">
+
+                                                        <h4 class="elementor-icon-box-title">
+                                                            <span>
+                                                                Nightly and Daily Packages </span>
+                                                        </h4>
+
+                                                        <p class="elementor-icon-box-description">
+                                                            Cras dapibus vivamus elementum senisiesei Aenean vulputate eleifend tellus. </p>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5bbc2cd elementor-align-left elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="5bbc2cd" data-element_type="widget" data-widget_type="button.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                    <a class="elementor-button elementor-button-link elementor-size-md" href="#">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-icon">
+                                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-gift" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M32 448c0 17.7 14.3 32 32 32h160V320H32v128zm256 32h160c17.7 0 32-14.3 32-32V320H288v160zm192-320h-42.1c6.2-12.1 10.1-25.5 10.1-40 0-48.5-39.5-88-88-88-41.6 0-68.5 21.3-103 68.3-34.5-47-61.4-68.3-103-68.3-48.5 0-88 39.5-88 88 0 14.5 3.8 27.9 10.1 40H32c-17.7 0-32 14.3-32 32v80c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-80c0-17.7-14.3-32-32-32zm-326.1 0c-22.1 0-40-17.9-40-40s17.9-40 40-40c19.9 0 34.6 3.3 86.1 80h-86.1zm206.1 0h-86.1c51.4-76.5 65.7-80 86.1-80 22.1 0 40 17.9 40 40s-17.9 40-40 40z"></path>
+                                                                </svg> </span>
+                                                            <span class="elementor-button-text">FULL LIST OF PACKAGES</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
         </div>
-    </main>
+        </section>
+</div>
+</main>
 </div>
 
 
