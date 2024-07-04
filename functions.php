@@ -5,7 +5,14 @@
 
 function herai_rafah_isp_enqueue_styles()
 {
+
+    // Custom Styles
+    wp_enqueue_style('custom-styles', get_stylesheet_directory_uri() . '/assets/css/custom-styles.css');
+
+
+
     wp_enqueue_style('herai-rafah-flaticon', get_stylesheet_directory_uri() . '/assets/css/flaticon.css');
+
     wp_enqueue_style('theme-style-css', get_stylesheet_directory_uri() . '/assets/css/theme-style.css');
     wp_enqueue_style('theme-responsive-css', get_stylesheet_directory_uri() . '/assets/css/theme-responsive.css');
     wp_enqueue_style('elementor-post-7-css', get_stylesheet_directory_uri() . '/assets/css/post-7.css');

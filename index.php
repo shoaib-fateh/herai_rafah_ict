@@ -259,7 +259,7 @@ get_header();
                 </div>
             </section>
 
-            <!-- Who Herai Rafah ICT? -->
+            <!-- Why Herai Rafah ICT? -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7749a" data-id="8a7749a" data-element_type="column">
@@ -537,10 +537,53 @@ get_header();
                     </div>
                 </div>
 
+            </section>
+
+
+            <!-- Why Herai Rafah ICT? -->
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7749a" data-id="8a7749a" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-23fdf0c elementor-widget elementor-widget-sectiontitle" data-id="23fdf0c" data-element_type="widget" data-widget_type="sectiontitle.default">
+                                <div class="elementor-widget-container">
+
+
+                                    <div class="section-title style1 center">
+                                        <h4 class="subtitle">Our Services</h4>
+                                        <h1 class="title">Discover The Services We Provide</h1>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0fe91 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+                                <div class="row text-center">
+                                    <div class="service-item col-12 col-md-3 mb-4">
+                                        <img src="<?php echo get_theme_file_uri('/assets/images/services/wifi.svg') ?>" alt="Wireless" class="img-fluid">
+                                        <h1 class="h5">Wireless</h1>
+                                    </div>
+                                    <div class="service-item col-12 col-md-3 mb-4">
+                                        <img src="<?php echo get_theme_file_uri('/assets/images/services/satelite.svg') ?>" alt="vSat | Dedicated" class="img-fluid">
+                                        <h1 class="h5">vSat | Dedicated</h1>
+                                    </div>
+                                    <div class="service-item col-12 col-md-3 mb-4">
+                                        <img src="<?php echo get_theme_file_uri('/assets/images/services/microwave.svg') ?>" alt="Microwave" class="img-fluid">
+                                        <h1 class="h5">Microwave</h1>
+                                    </div>
+                                    <div class="service-item col-12 col-md-3 mb-4">
+                                        <img src="<?php echo get_theme_file_uri('/assets/images/services/cable.svg') ?>" alt="Networking" class="img-fluid">
+                                        <h1 class="h5">Networking</h1>
+                                    </div>
+                                </div>
+
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
-        </section>
-</div>
-</main>
+    </main>
 </div>
 
 
