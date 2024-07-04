@@ -582,6 +582,87 @@ get_header();
                     </div>
                 </div>
             </section>
+
+            <!-- Why Herai Rafah ICT? -->
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7749a" data-id="8a7749a" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-23fdf0c elementor-widget elementor-widget-sectiontitle" data-id="23fdf0c" data-element_type="widget" data-widget_type="sectiontitle.default">
+                                <div class="elementor-widget-container">
+
+
+                                    <div class="section-title style1 center">
+                                        <h4 class="subtitle">Thanks for your interest</h4>
+                                        <h1 class="title">Book an Appointment?</h1>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e0fe91 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+                                <div class="row">
+                                    <div class="col">
+                                        <img src="<?php echo get_theme_file_uri('/assets/images/app-cal.png') ?>" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <form action="#" method="post">
+                                            <div class="contact-page-form">
+                                                <div class="row">
+                                                    <div class="col-lg-6">
+                                                        <p>
+                                                            <span data-name="name">
+                                                                 <input size="40" maxlength="80" class="form-control" placeholder="Name" type="text" name="name" value="">
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-lg-6">
+                                                        <p>
+                                                            <span data-name="email">
+                                                                <input size="40" maxlength="80" class="form-control" placeholder="Email Address" value="" type="email" name="user-email">
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-lg-6">
+                                                        <p>
+                                                            <span data-name="phone">
+                                                                <input size="40" maxlength="80" class="form-control" placeholder="Phone" type="phone" name="phone" value="">
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-lg-6">
+                                                        <p>
+                                                            <span data-name="email">
+                                                                <input size="40" maxlength="80" class="form-control" placeholder="Email Address" value="" type="email" name="user-email">
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-lg-12">
+                                                        <p>
+                                                            <span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="5" maxlength="400" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Message" name="message"></textarea>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="col-lg-12">
+                                                        <p>
+                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner submit-button" type="submit" value="Send Message"><span class="wpcf7-spinner">
+
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                </div>
+                                            </div>
+                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </main>
 </div>
