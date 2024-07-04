@@ -1,4 +1,4 @@
-	p span{
+p span{
 	color: #0c73ff;
 }
 
@@ -6872,13 +6872,11 @@ Elementor Custom
 .portfolio-list.style2 .options .option .label .info .sub {
   transition-delay: 0.1s;
 }
+.elementor-icon-box-title {
+	margin: 0;
+	color: var(--main-color);
+}
 
-
-
-
-
-
-
-
-
-
+.elementor-icon * {
+	color: var(--main-color);
+}
