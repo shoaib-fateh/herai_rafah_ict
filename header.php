@@ -49,7 +49,7 @@
                         </nav>
                         <div class="menu-element">
                             <div class="search">
-                                <div class="search-icon">
+                                <div class="search-icon" id="searchIcon">
                                     <i class="fa-solid fa-magnifying-glass"></i>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
         </div>
         <!-- Search -->
 
-        <div class="search-window search-active">
+        <div class="search-window">
             <button class="search-close">
                 <i class="fa-solid fa-x"></i>
             </button>

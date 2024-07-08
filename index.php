@@ -1,10 +1,6 @@
-<div style="background-color: black;">
-
 <?php
 get_header();
 ?>
-
-</div>
 
 <div class="default-page" style="display: none;">
     <main id="primary" class="site-main">
