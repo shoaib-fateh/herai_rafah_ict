@@ -539,7 +539,6 @@ get_header();
 
             </section>
 
-
             <!-- Why Herai Rafah ICT? -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-5ca566e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ca566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
