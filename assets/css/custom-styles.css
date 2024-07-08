@@ -597,7 +597,7 @@ Header
   -o-transition: all 300ms ease;
   transition: all 300ms ease;
 }
-.search-active .search-window form {
+.search-active.search-window form {
   transform: scaleX(1);
   -webkit-transition-delay: 1200ms;
   -moz-transition-delay: 1200ms;

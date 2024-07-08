@@ -120,7 +120,7 @@
                 <div class="form-group">
                     <input type="search" name="query" value="" placeholder="Search Here" required="">
                     <button type="submit">
-                        <i class="fa-solid fa-x"></i>
+                        <i class="fa-solid fa-magnifying-glass"></i>
                     </button>
                 </div>
             </form>
