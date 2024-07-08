@@ -1,0 +1,25 @@
+/* Header */
+@media (max-width: 991px) {
+  .site-header {
+    display: none;
+  }
+}
+
+/* Sub menu */
+@media (max-width: 991px) {
+  .top-bar {
+    display: none;
+  }
+  .site-header {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+}
+
+/* 
+.search-active .search-window {
+    transform: translateY(0%) !important;
+    margin-top: 0 !important;
+} */

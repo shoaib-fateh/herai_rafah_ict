@@ -50,7 +50,6 @@
                         <div class="menu-element">
                             <div class="search">
                                 <div class="search-icon">
-                                    <!-- <i class="bi bi-search" aria-hidden="true"></i> -->
                                     <i class="fa-solid fa-magnifying-glass"></i>
                                 </div>
                             </div>
@@ -61,7 +60,7 @@
         </header>
 
         <!-- Mobile Menu -->
-        <div class="mobile-menu" style="display: none;">
+        <div class="mobile-menu">
             <div class="menu-bar">
                 <div class="site-logo">
 
@@ -106,20 +105,23 @@
 
                 <div class="component">
                     <div class="search-icon">
-                        <i class="bi bi-search"></i>
+                        <i class="fa-solid fa-magnifying-glass"></i>
                     </div>
-
                 </div>
             </div>
         </div>
         <!-- Search -->
 
-        <div class="search-window">
-            <button class="search-close"><i class="bi bi-x-lg"></i></button>
+        <div class="search-window search-active">
+            <button class="search-close">
+                <i class="fa-solid fa-x"></i>
+            </button>
             <form method="get" action="">
                 <div class="form-group">
                     <input type="search" name="query" value="" placeholder="Search Here" required="">
-                    <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    <button type="submit">
+                        <i class="fa-solid fa-x"></i>
+                    </button>
                 </div>
             </form>
         </div>

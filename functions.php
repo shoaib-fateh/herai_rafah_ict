@@ -8,6 +8,7 @@ function herai_rafah_isp_enqueue_styles()
 
     // Custom Styles
     wp_enqueue_style('custom-styles', get_stylesheet_directory_uri() . '/assets/css/custom-styles.css');
+    wp_enqueue_style('responsive-styles', get_stylesheet_directory_uri() . '/assets/css/responsive.css');
 
 
 
@@ -20,9 +21,8 @@ function herai_rafah_isp_enqueue_styles()
     // // main styles
     // wp_enqueue_style('hrisp-style-css', get_stylesheet_directory_uri() . '/style.css');
 
-    // // Bootstrap
-    // wp_enqueue_style('bootstrap-css', 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css', array(), '5.1.3', 'all');
-    // wp_enqueue_style('bootstrap-icon-css', 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css', array(), '1.7.0', 'all');
+    // Bootstrap
+    wp_enqueue_style('bootstrap-css', get_stylesheet_directory_uri() . '/assets/lib/bootstrap5.1.3/bootstrap.min.css');
 
     // wp_enqueue_style('ai-preloader-css', get_stylesheet_directory_uri() . '/css/ai-preloader-public.css');
     // wp_enqueue_style('contact-form-7-css', get_stylesheet_directory_uri() . '/contact-form-7/includes/css/styles.css');
