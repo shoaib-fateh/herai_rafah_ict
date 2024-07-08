@@ -8,25 +8,16 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <meta name="robots" content="max-image-preview:large" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-
-    <meta name="generator" content="WordPress 6.5.4" />
-
     <style>
         :root {
             --primary-color: #EE4040;
         }
     </style>
-
-    <meta name="generator" content="Redux 4.4.17" />
-    <meta name="generator" content="Elementor 3.22.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 </head>
 
-<body class="home page-template-default page page-id-7 ehf-footer ehf-template-solute ehf-stylesheet-solute elementor-default elementor-kit-5 elementor-page elementor-page-7">
+<body>
     <div id="page" class="site">
-        <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
-        <!-- Topbar -->
         <!-- Header -->
-
         <header id="sticky-header" class="site-header">
             <div class="main-menu default transparent-menu">
                 <div class="container">
@@ -59,7 +50,8 @@
                         <div class="menu-element">
                             <div class="search">
                                 <div class="search-icon">
-                                    <i class="bi bi-search" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-search" aria-hidden="true"></i> -->
+                                    <i class="fa-solid fa-magnifying-glass"></i>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +61,7 @@
         </header>
 
         <!-- Mobile Menu -->
-        <div class="mobile-menu">
+        <div class="mobile-menu" style="display: none;">
             <div class="menu-bar">
                 <div class="site-logo">
 

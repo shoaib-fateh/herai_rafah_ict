@@ -1,8 +1,12 @@
+<div style="background-color: black;">
+
 <?php
 get_header();
 ?>
 
-<div class="default-page">
+</div>
+
+<div class="default-page" style="display: none;">
     <main id="primary" class="site-main">
         <div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7">
             <!-- Hero Section -->
@@ -667,6 +671,6 @@ get_header();
 </div>
 
 
-<?php
+<!-- <?php
 get_footer();
-?>
+?> -->
