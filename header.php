@@ -8,11 +8,6 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <meta name="robots" content="max-image-preview:large" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <style>
-        :root {
-            --primary-color: #EE4040;
-        }
-    </style>
 </head>
 
 <body>
